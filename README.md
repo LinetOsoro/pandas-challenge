@@ -10,4 +10,4 @@ Create a DataFrame called size_summary that breaks down school performance based
  
 Use the per_school_summary DataFrame from the previous step to create a new DataFrame called type_summary. This new DataFrame should show school performance based on the "School Type".
 
-Written Report: The written report should presents a cohesive written analysis that: Summarizes the analysis and draws two correct conclusions or comparisons from the calculations 
+Analysis: Write a report that presents a cohesive written analysis that: Summarizes the analysis and draws two correct conclusions or comparisons from the calculations 
