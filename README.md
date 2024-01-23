@@ -1,8 +1,8 @@
-Using Pandas and Jupyter Notebook, create a report that includes the following data. The report must include a written description of at least two observable trends based on the data.
+The goal is to create and manipulate PandaS DataFrames to analyze school and standardized test data. 
  
-District Summary: Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame. Include the following: Total number of unique school, Total students, Total budget, Average math score, Average reading score, % passing math (the percentage of students who passed math), % passing reading (the percentage of students who passed reading), % overall passing (the percentage of students who passed math AND reading).
+Create a District Summary that shows the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame. 
 
-School Summary: Perform the necessary calculations and then create a DataFrame that summarizes key metrics about each school. Include the following: School name, School type, Total students, Total school budget, Per student budget, Average math score, Average reading score, % passing math (the percentage of students who passed math), % passing reading (the percentage of students who passed reading), % overall passing (the percentage of students who passed math AND reading), Highest-Performing Schools (by % Overall Passing): Sort the schools by % Overall Passing in descending order and display the top 5 rows. Save the results in a DataFrame called "top_schools".
+Then create a School Summary with a DataFrame that summarizes key metrics about each school. Save the results in a DataFrame called "top_schools".
 
 Create a DataFrame called spending_summary
  
@@ -10,4 +10,4 @@ Create a DataFrame called size_summary that breaks down school performance based
  
 Use the per_school_summary DataFrame from the previous step to create a new DataFrame called type_summary. This new DataFrame should show school performance based on the "School Type".
 
-Analysis: Write a report that presents a cohesive written analysis that: Summarizes the analysis and draws two correct conclusions or comparisons from the calculations 
+Write a report that presents a cohesive written analysis tha summarizes the analysis and draws two correct conclusions or comparisons from the calculations 
